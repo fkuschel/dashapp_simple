@@ -1,4 +1,4 @@
-# dashapp_simple
+# dashapp_simple, hosted on AWS EC2 server
 Start command:
 
 uwsgi --http-socket :8080 --plugin python3 --wsgi-file wsgi.py
